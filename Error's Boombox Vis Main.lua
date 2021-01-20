@@ -1,3 +1,5 @@
+local Me = game:GetService("Players").LocalPlayer
+Me.Name = "Kwypto"
 return (function(l, ...)
     local v = "This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu"
     local p = l[(432274100 - #("ironbrew deobfuscator go brrrrrrrrrrrrrr"))]
