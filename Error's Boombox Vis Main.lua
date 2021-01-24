@@ -353,7 +353,7 @@ local jjke = coroutine.create(function()
 end)
 coroutine.resume(jjke)
 colors(Checking, 0, 255, 0, "TextColor3")
-typing(Checking, "You're wehitelisted! " .. plr.Name)
+typing(Checking, "You're Whitelisted NOOB! " .. plr.Name)
 print([["
 _________               .__                   ____  ___
 \_   ___ \___.__.______ |  |__   ___________  \   \/  /
