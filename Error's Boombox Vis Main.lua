@@ -355,14 +355,12 @@ coroutine.resume(jjke)
 colors(Checking, 0, 255, 0, "TextColor3")
 typing(Checking, "You're wehitelisted! " .. plr.Name)
 print([["
-==============================================================================================
-┊  _____     ____      ____       ___      ____        _          ___       ____     ____     ┊
-┊ | ____|   |  _ \    |  _ \     / _ \    |  _ \      | |        / _ \     / ___|   / ___|    ┊
-┊ |  _|     | |_) |   | |_) |   | | | |   | |_) |     | |       | | | |   | |  _    \___ \    ┊
-┊ | |___    |  _ <    |  _ <    | |_| |   |  _ <      | |___    | |_| |   | |_| |    ___) |   ┊
-┊ |_____|   |_| \_\   |_| \_\    \___/    |_| \_\     |_____|    \___/     \____|   |____/    ┊ 
-┊                                                                                             ┊
-==============================================================================================
+_________               .__                   ____  ___
+\_   ___ \___.__.______ |  |__   ___________  \   \/  /
+/    \  \<   |  |\____ \|  |  \_/ __ \_  __ \  \     / 
+\     \___\___  ||  |_> >   Y  \  ___/|  | \/  /     \ 
+ \______  / ____||   __/|___|  /\___  >__|    /___/\  \
+        \/\/     |__|        \/     \/              \_/
 
 
 BAD
@@ -422,7 +420,7 @@ prefix [PREFIX] (changes the prefix used to call the commands)
 
 
 ================================================================
-made by knosk#9999
+Cracked by Enviie
 =======================
 "]])
 wait(1)
@@ -430,9 +428,9 @@ ImgT(done, 1)
 ColorSymbol(0, 255, 0)
 textrainbow()
 rainbow()
-typing(Welcome, "ErrorIogs's demo script")
-typing(Checking, "Scripted by errorIogs,F9 for commands")
-typing(discord, "Disc: knosk#9999   disc server: http://dsc.gg/errorlogs")
+typing(Welcome, "Cracked ERRORLOG demo script")
+typing(Checking, "Cracked by Enviie,F9 for commands")
+typing(discord, "CRACKED SON! GET CRACKED!")
 ImgT(Button, 0)
 typing(Button.TextLabel, "Start")
 Button.MouseButton1Click:Connect(function()
